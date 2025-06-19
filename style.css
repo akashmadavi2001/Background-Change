@@ -30,6 +30,11 @@ body {
 }
 
 @keyframes bcg {
+    
+    0% {
+        background: url(./p1.jpg);
+    }
+    
     20% {
         background: url(./p2.jpg);
     }
